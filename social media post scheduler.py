@@ -222,7 +222,7 @@ class UserManager:
 
 # Initialize Instabot for Instagram
 INSTAGRAM_USERNAME = 'mailid4learning@gmail.com'
-INSTAGRAM_PASSWORD = 'bhargav1234'
+INSTAGRAM_PASSWORD = 'BHARGAV1234'
 
 # Hard-coded Access Tokens and IDs for Facebook (As per your request)
 FACEBOOK_ACCESS_TOKEN = 'EAASbOH6aOncBOwwC0HfJQqgRWoTBbZA8amhy6SITcpFrUreMMkuwvNdtRkaW1mqZAyznJBfDIEU27CaMNnnOGpqZBpVtsG6T0NGUtuENiEjIahrJUPs7B0GCP6o8Xv15e01Frqp1ZBgpHuipd3E9FjaSMZBLlMihXNPrUng8ZBQpaZBEzCUPNsu46PwJjc5yGz0YUprxNdM'
